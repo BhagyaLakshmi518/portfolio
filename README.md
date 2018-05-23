@@ -7,4 +7,4 @@
 #I also used a logo and a header for the two headings on the top of the page.
 #I linked the css file in the head section.
 #My files can be viewed by using the following link of github:
-     
+     https://github.com/BhagyaLakshmi518/portfolio.git
